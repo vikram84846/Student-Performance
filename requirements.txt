@@ -1,5 +1,5 @@
 fastapi
-uvicorm
+uvicorn
 numpy
 pandas
 joblib
